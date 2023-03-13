@@ -1,0 +1,33 @@
+
+
+.bgcontainer{
+      background-color:#004d99;
+      border-radius: 5px;
+      width: 50%;
+      padding-left: 10px;
+      height: 100vh;
+      
+      
+      
+}
+.heading{
+    color: aliceblue;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.list-Container{
+    background-color: azure;
+    border-radius: 5px;
+    width:90%;
+    margin-top: 20px;
+    height: 30vh;
+}
+.delivery-text{
+    color: aliceblue;
+}
+#btn{
+    background-color: blue;
+    color:aliceblue;
+    display: block;
+}
